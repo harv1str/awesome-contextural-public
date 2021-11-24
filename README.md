@@ -1,2 +1,4 @@
-# awesome-contextural-public
-The Public Repo for Contextural Blog Ideation Repo
+# awesome-contextural
+Concept Design for posts
+
+`/inquiryList.md` : A list of ideas for posts
